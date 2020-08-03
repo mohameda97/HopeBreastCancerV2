@@ -10,7 +10,7 @@
     <TextView
         android:id="@+id/textType"
         android:layout_width="match_parent"
-        android:text="Tap on camera to choose profile picture"
+        android:text="Tap on image to choose profile picture"
         android:textAlignment="center"
         android:layout_height="wrap_content"
 

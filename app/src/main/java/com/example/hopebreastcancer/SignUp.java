@@ -27,7 +27,7 @@ import java.util.jar.Attributes;
 import javax.crypto.spec.SecretKeySpec;
 
 public class SignUp extends AppCompatActivity implements View.OnClickListener {
-EditText editTextEmailAddress,editTextPassword,editTextPhone,editTextName;
+EditText editTextEmailAddress,editTextPassword ,editTextName;
     private FirebaseAuth mAuth;
     boolean isVerified =false;
 
